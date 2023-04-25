@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "291768854771",
+    "project_id": "temple-86263",
+    "storage_bucket": "temple-86263.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291768854771:android:b994b0d12954bb16f5ef86",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291768854771-i9d1b9ntiokp6mqlpv684999lefb3pa7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsC5QNmexCMihl-GReCTjOgLTIOkNs1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291768854771-i9d1b9ntiokp6mqlpv684999lefb3pa7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291768854771-2uungda8euenqktkoqekumenpoottg61.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
