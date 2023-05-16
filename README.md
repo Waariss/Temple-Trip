@@ -27,10 +27,10 @@ Before starting, ensure that you have the following software installed on your m
 
 Follow these steps to get the app running on your local machine:
 
-1. **Clone the repo**: Clone this repository to your local machine using `https://github.com/YOUR_USERNAME/YOUR_PROJECT.git` (replace with your Github username and project name).
+1. **Clone the repo**: Clone this repository to your local machine using `https://github.com/Waariss/Temple-Trip.git` (replace with your Github username and project name).
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_PROJECT.git
+git clone https://github.com/Waariss/Temple-Trip.git
 ```
 
 2. **Navigate into the directory** 
