@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-If you have any questions, feel free to contact me at `your-email@example.com`.
+If you have any questions, feel free to contact me at `waris.dam@student.mahidol.ac.th`.
 
 Thank you for your interest in our Dart Flutter Project!
 
